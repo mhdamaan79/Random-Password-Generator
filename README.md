@@ -1,3 +1,3 @@
 # Random-Password-Generator
 
-Advice Generator App is a JavaScript project that allows the user to see random advices with one click👆🏻. Image preview is added for reference.
+🔑 Random Password Generator is a JavaScript project that can generate strong and unique passwords with one click👆🏻. Image preview is added for reference.

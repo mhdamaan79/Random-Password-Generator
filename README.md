@@ -29,7 +29,7 @@ Random Password Generator is a JavaScript project that can generate strong and u
 
 Random Password Generator is a simple yet effective tool to generate strong and unique passwords for various purposes, ensuring the security of your online accounts and sensitive information.
 
-## 📌 Live Site URL: <a href="https://random-password-generator-79.netlify.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://random-password-generator-web-app-79.netlify.app/">**Visit Now** 🚀</a>
 
 ## 📬 Connect With Me
 
